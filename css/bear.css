@@ -14,7 +14,7 @@ html {
 
   #bear {
     position: fixed;
-    right: 500px;
+    transform: rotate();
   }
 
 }
